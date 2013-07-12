@@ -1,0 +1,18 @@
+{
+  "name": "googlecustomsearch",
+  "version": "1.0.0",
+  "author": "Dan Kaplun <dan@beardtree.com>",
+  "description": "Rate-limited Google Custom Search wrapper using promises",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beardtree/node-googlecustomsearch.git"
+  },
+  "keywords": ["google", "custom", "search"],
+  "dependencies": {
+    "q": "0.9.6",
+    "extend": "1.1.3",
+    "request": "2.22.0",
+    "limiter": "1.0.3"
+  },
+  "license": "MIT"
+}
