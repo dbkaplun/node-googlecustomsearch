@@ -1,3 +1,7 @@
+##DEPRECATED!
+
+Use [Google's official NodeJS API client](https://github.com/google/google-api-nodejs-client) instead. See [here](https://github.com/google/google-api-nodejs-client/blob/master/examples/customsearch.js) for example usage.
+
 node-googlecustomsearch
 =======================
 
